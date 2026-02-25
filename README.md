@@ -43,12 +43,9 @@ In the field of AI, my experience as a **Machine Learning Research Assistant** h
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Azekhiel&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Azekhiel's Stats" />
+<div align="center">>
   <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Azekhiel&theme=dark&hide_border=false" alt="Azekhiel's Streak" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azekhiel&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=15" alt="Top Languages" />
-</div>
 
 <br/>
