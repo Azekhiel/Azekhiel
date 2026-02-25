@@ -39,11 +39,10 @@ In the field of AI, my experience as a **Machine Learning Research Assistant** h
 **Hardware & Game Dev**<br/>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 
----
 
 ## 📊 GitHub Stats
 
-<div align="center">>
+<div align="center">
   <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Azekhiel&theme=dark&hide_border=false" alt="Azekhiel's Streak" />
   <br/><br/>
