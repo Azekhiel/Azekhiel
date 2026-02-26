@@ -1,10 +1,7 @@
 # Hi there, I'm William Gerald Briandelo
 
-I'm a Software Engineer bridging the gap between software engineering, artificial intelligence, and hardware systems. 
+I'm a Software Engineer bridging the gap between software engineering, artificial intelligence, and hardware systems.
 
-My software engineering journey is heavily driven by **backend development**, with practical industry experience as a Full-stack Engineering Intern at **AirNav Indonesia** and as a Software Engineer for **HME ITB**. 
-
-In the field of AI, my experience as a **Machine Learning Research Assistant** has deepened my focus on practical solutions. Currently, I am building my Capstone Project: a dual-mode **Sign Language Translation System**. The system is designed to interpret gestures through two distinct approaches, using a physical sensor-equipped smart glove, or utilizing a camera-based Computer Vision model.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/william-gerald-briandelo-822257264/" target="_blank">
