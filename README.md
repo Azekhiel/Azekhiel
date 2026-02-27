@@ -44,4 +44,5 @@ I'm a Software Engineer bridging the gap between software engineering, artificia
   <img src="https://nirzak-streak-stats.vercel.app/?user=Azekhiel&theme=dark&hide_border=false" alt="Azekhiel's Streak" />
   <br/><br/>
 
+  <img src="output/stats_langs.svg" alt="Language Used Statistics" />
 <br/>
