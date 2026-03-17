@@ -50,14 +50,14 @@
     <foreignObject x="0" y="0" width="450" height="220">
         <div xmlns="http://www.w3.org/1999/xhtml" class="card">
             <h2>language used</h2>
-            <div class="progress"><span class="progress-item" style="--final-width:27.53197291705849%; --color:#3572A5; --delay:0.85s;"></span><span class="progress-item" style="--final-width:26.4340793680647%; --color:#00ADD8; --delay:1.05s;"></span><span class="progress-item" style="--final-width:23.257946210268948%; --color:#555555; --delay:1.25s;"></span><span class="progress-item" style="--final-width:7.363174722587925%; --color:#f1e05a; --delay:1.45s;"></span><span class="progress-item" style="--final-width:5.93144630430694%; --color:#ff7f7f; --delay:1.65s;"></span><span class="progress-item" style="--final-width:2.9151777318036487%; --color:#b07219; --delay:1.8499999999999999s;"></span><span class="progress-item" style="--final-width:2.689486552567237%; --color:#adb2cb; --delay:2.05s;"></span><span class="progress-item" style="--final-width:2.1558209516644724%; --color:#2b7489; --delay:2.25s;"></span><span class="progress-item" style="--final-width:1.088489749858943%; --color:#f34b7d; --delay:2.45s;"></span><span class="progress-item" style="--final-width:0.5148580026330637%; --color:#AA6746; --delay:2.6500000000000004s;"></span><span class="progress-item" style="--final-width:0.11754748918563099%; --color:#89e051; --delay:2.8500000000000005s;"></span></div>
+            <div class="progress"><span class="progress-item" style="--final-width:27.601756817060853%; --color:#3572A5; --delay:0.85s;"></span><span class="progress-item" style="--final-width:26.408624374662377%; --color:#00ADD8; --delay:1.05s;"></span><span class="progress-item" style="--final-width:23.23554970993729%; --color:#555555; --delay:1.25s;"></span><span class="progress-item" style="--final-width:7.356084270850459%; --color:#f1e05a; --delay:1.45s;"></span><span class="progress-item" style="--final-width:5.925734551518425%; --color:#ff7f7f; --delay:1.65s;"></span><span class="progress-item" style="--final-width:2.9123705286891988%; --color:#b07219; --delay:1.8499999999999999s;"></span><span class="progress-item" style="--final-width:2.686896681306809%; --color:#adb2cb; --delay:2.05s;"></span><span class="progress-item" style="--final-width:2.153744979683867%; --color:#2b7489; --delay:2.25s;"></span><span class="progress-item" style="--final-width:1.0874415764379828%; --color:#f34b7d; --delay:2.45s;"></span><span class="progress-item" style="--final-width:0.5143622143410762%; --color:#AA6746; --delay:2.6500000000000004s;"></span><span class="progress-item" style="--final-width:0.11743429551166122%; --color:#89e051; --delay:2.8500000000000005s;"></span></div>
             <ul>
         <li style="--li-delay:0.85s; width: 33%;">
           <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#3572A5;" viewBox="0 0 16 16" width="16" height="16">
             <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
           </svg>
           <span class="lang">Python</span>
-          <span class="percent">27.5%</span>
+          <span class="percent">27.6%</span>
         </li>
         <li style="--li-delay:1.05s; width: 33%;">
           <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#00ADD8;" viewBox="0 0 16 16" width="16" height="16">
@@ -71,7 +71,7 @@
             <path fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"></path>
           </svg>
           <span class="lang">C</span>
-          <span class="percent">23.3%</span>
+          <span class="percent">23.2%</span>
         </li>
         <li style="--li-delay:1.45s; width: 33%;">
           <svg xmlns="http://www.w3.org/2000/svg" class="octicon" style="fill:#f1e05a;" viewBox="0 0 16 16" width="16" height="16">
